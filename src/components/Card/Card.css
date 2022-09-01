@@ -62,7 +62,7 @@
 .ExpandedCard {
   position: absolute;
   width: 60%;
-  height: 70vh;
+  height: 60vh;
   z-index: 9;
   left: 13rem;
   border-radius: 1rem;
@@ -97,7 +97,7 @@
 
 @media screen and (max-width: 768px) {
   .ExpandedCard {
-    top: 8rem;
+    top: 7.5rem;
     height: 50%;
     left: 25px;
     width: 80%;
